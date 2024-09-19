@@ -1,0 +1,15 @@
+**/dist
+**/build
+.DS_Store
+
+**/node_modules
+<<<<<<< Updated upstream
+# moon
+.moon/cache
+.moon/docker
+.cache
+build
+dist
+.env
+=======
+>>>>>>> Stashed changes
